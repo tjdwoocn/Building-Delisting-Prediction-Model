@@ -1,0 +1,12 @@
+data.zip filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+predict_daily_stock_price+ver2.ipynb filter=lfs diff=lfs merge=lfs -text
+기업공시_API.ipynb filter=lfs diff=lfs merge=lfs -text
+상장폐지기업[[:space:]]주식데이터[[:space:]]분석2.ipynb filter=lfs diff=lfs merge=lfs -text
+주식데이터[[:space:]]분석[[:space:]](2013~2018).ipynb filter=lfs diff=lfs merge=lfs -text
+KRX(한국거래소[[:space:]]크롤링).ipynb filter=lfs diff=lfs merge=lfs -text
+KRX30030주식데이터분석.ipynb filter=lfs diff=lfs merge=lfs -text
+급등주[[:space:]]포착[[:space:]]알고리즘.ipynb filter=lfs diff=lfs merge=lfs -text
+상장폐지기업[[:space:]]주식데이터[[:space:]]분석.ipynb filter=lfs diff=lfs merge=lfs -text
+주식데이터[[:space:]]분석.ipynb filter=lfs diff=lfs merge=lfs -text
+캔들차트[[:space:]]및[[:space:]]이동평균선[[:space:]]그리기.ipynb filter=lfs diff=lfs merge=lfs -text
